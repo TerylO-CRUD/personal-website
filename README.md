@@ -21,8 +21,9 @@ Simply open `index.html` in your favorite web browser—no installation needed!
 - A Projects section organized in a CSS grid that adapts beautifully to smaller screens:
   - JavaScript Calculator
   - Inventory Manager
-- A cohesive blue and white color scheme throughout the site.
-- A dark mode button that remembers your preference.
+- Consistent green and white color scheme
+- Each project links to its GitHub repository.
+- Dark mode button
 
 ## Version control
 
